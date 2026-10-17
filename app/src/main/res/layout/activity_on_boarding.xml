@@ -106,7 +106,7 @@
                 android:textColor="#FFFFFF"
                 android:textSize="18sp"
                 android:textStyle="bold"
-                app:cornerRadius="28dp" />
+                app:cornerRadius="10dp" />
 
         </LinearLayout>
 
